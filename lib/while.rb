@@ -3,6 +3,6 @@ def using_while
 	
   #your code here
 end
-counter = 
+counter < 10
   
 
