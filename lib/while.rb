@@ -6,5 +6,5 @@ end
 counter < 10
 
 loop do 
-  counter 
+  counter += 1
 
