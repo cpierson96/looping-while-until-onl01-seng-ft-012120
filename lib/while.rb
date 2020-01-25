@@ -4,5 +4,6 @@ def using_while
   #your code here
 end
 counter < 10
-  
+
+loop do   
 
