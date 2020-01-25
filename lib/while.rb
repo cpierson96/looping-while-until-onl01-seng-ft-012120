@@ -8,4 +8,4 @@ counter < 10
 loop do 
   counter += 1
   puts "Wingardium Leviosa"
-  
+  if counter 
