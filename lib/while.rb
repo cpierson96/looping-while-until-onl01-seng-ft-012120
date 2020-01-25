@@ -5,5 +5,6 @@ def using_while
 end
 counter < 10
 
-loop do   
+loop do 
+  counter 
 
