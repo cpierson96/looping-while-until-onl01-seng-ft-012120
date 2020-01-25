@@ -5,6 +5,6 @@ loop do
   counter += 1
   puts "Wingardium Leviosa
     if counter < 10
-
+    
 
 end
