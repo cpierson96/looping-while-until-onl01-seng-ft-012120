@@ -3,6 +3,6 @@ def using_while
 	
   #your code here
 end
-def using_while
+counter = 
   
 
